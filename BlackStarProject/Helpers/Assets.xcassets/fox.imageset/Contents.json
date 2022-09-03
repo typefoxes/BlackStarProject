@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1614546966_73-p-lisa-na-belom-fone-97.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
